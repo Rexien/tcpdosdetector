@@ -1,0 +1,7 @@
+DoS Analysis Report — 2025-07-25 22:34:47
+
+SYN Flood detected from 192.168.1.100 — 200 packets
+ICMP Flood detected from 192.168.1.200 — 200 packets
+DNS Flood detected from 192.168.1.150 — 200 packets
+
+Analysis Complete.
